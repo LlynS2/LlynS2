@@ -21,11 +21,11 @@
 <br>
 
 <div>
-  <h3>
-    ፧ » 𝑴𝒚 𝑺𝒌𝒊𝒍𝒍𝒔 <br> ╴╴╴╴╴╴╴ 
+  <h3 align="right">
+   𝑴𝒚 𝑺𝒌𝒊𝒍𝒍𝒔
   </h3>
   
-  / <a href="https://www.twitch.tv/rafaballerinii" target="_blank">
+  <a href="https://www.twitch.tv/rafaballerinii" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
 </div>
