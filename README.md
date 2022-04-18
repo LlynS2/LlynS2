@@ -88,6 +88,11 @@
   <a href="https://github.com/LlynS2/Web_Modern" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
   </a>
+  
+   <a href="https://github.com/LlynS2/My_Projects" target="_blank">
+    <h4>𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔</h4>
+  </a>
+  
 
 </div><br>
   
@@ -105,7 +110,7 @@
  
  
   
-  https://github.com/LlynS2/My_Projects
+
   
   
  
