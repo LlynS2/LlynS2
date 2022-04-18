@@ -13,7 +13,8 @@
     <i>
       You who arrived here by parachute or are visiting my GitHub again, enjoy and explore the new projects created by me. 
       A student Software Developer┃Engineer with a lot of effort, dedication and determination to improve her skills and boost her career.<br>
-      I am currently attending university ( FIAP ) and always improving myself with new courses, there is no lack of willpower to get ideas off paper and create new           works.
+      I am currently attending university ( FIAP ) and always improving myself with new courses,  
+      <a href="https://github.com/LlynS2/My_Projects" target="_blank">there is no lack of willpower to get ideas off paper and create new works.</a>
     </i>
   </p>
 </div> 
@@ -89,13 +90,6 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
   </a>
   
-  <br>
-  
-   <a href="https://github.com/LlynS2/My_Projects" target="_blank">
-    <h3>𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</h3>
-  </a>
-  
-
 </div><br>
   
  <div align="center">
