@@ -28,13 +28,14 @@
 
   <p>
     <i> 
-     • ꒰ <b>Here are my projects according to my skills</b>  ꒱ ˎˊ˗   •
+     • ꒰ <b>These are my projects according to my skills</b>  ꒱ ˎˊ˗   •
     <i>
   </p>
  
 </div>
 
-<img align="right" height="300px" src="https://cdni.iconscout.com/illustration/premium/thumb/schedule-management-4836322-4041290.png">
+<img align="right" height="400px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+
 
 <div>
 
@@ -90,6 +91,14 @@
 
 </div><br>
   
+ <div align="center">
+  
+   <p>
+     ━─━────༺༻────━─━
+   </p>
+   
+ </div>
+  
   
   
  
@@ -99,7 +108,4 @@
   https://github.com/LlynS2/My_Projects
   
   
-  <a href="https://www.twitch.tv/rafaballerinii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-</div>
+ 
