@@ -25,6 +25,15 @@
    𝑴𝒚 𝑺𝒌𝒊𝒍𝒍𝒔
   </h3>
   
+  https://github.com/LlynS2/Java
+  https://github.com/LlynS2/Python
+  https://github.com/LlynS2/.Net
+  https://github.com/LlynS2/React
+  https://github.com/LlynS2/NodeJS
+  https://github.com/LlynS2/Web_Modern
+  https://github.com/LlynS2/My_Projects
+  
+  
   <a href="https://www.twitch.tv/rafaballerinii" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
