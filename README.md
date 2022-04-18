@@ -90,7 +90,7 @@
   </a>
   
    <a href="https://github.com/LlynS2/My_Projects" target="_blank">
-    <h4>𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔</h4>
+    𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
   </a>
   
 
