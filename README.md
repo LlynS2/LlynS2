@@ -27,9 +27,9 @@
     .˚｡⋆ 𝑴𝒚 𝑺𝒌𝒊𝒍𝒍𝒔 <br> ✦ - - - - - - ↷ .    .    .
   </h3>
 
-  <p>
+  <p align="center">
     <i> 
-     • ꒰ <b>These are my projects according to my skills</b>  ꒱ ˎˊ˗   •
+      • ꒰ <b>These are my projects according to my skills</b>  ꒱ ˎˊ˗   •
     <i>
   </p>
  
