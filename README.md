@@ -29,7 +29,7 @@
 
   <p align="center">
     <i> 
-      • ꒰ <b>These are my projects according to my skills</b>  ꒱ ˎˊ˗   • <br>
+      • ꒰ <b>Based on my skills these are my projects</b>  ꒱ ˎˊ˗   • <br>
       〘 根据我的技能，这些是我的项目 〙
     <i>
   </p>
