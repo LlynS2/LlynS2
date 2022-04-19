@@ -64,14 +64,14 @@
    'ೃ ↳<i> Development and classes with the <b>NodeJS</b></i>
   <br>
   
-   ㅤㅤㅤㅤㅤ<a href="https://gitlab.com/LlynS2/node.js" target="_blank">
+   ㅤㅤㅤㅤㅤ<a href="https://github.com/LlynS2/NodeJS" target="_blank">
               <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
             </a>
 
    'ೃ ↳<i> Development and classes with the <b>React</b></i>
   <br>
 
-   ㅤㅤㅤㅤㅤㅤ<a href=" https://github.com/LlynS2/NodeJS" target="_blank">
+   ㅤㅤㅤㅤㅤㅤ<a href="https://github.com/LlynS2/React" target="_blank">
                 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
               </a>
 
