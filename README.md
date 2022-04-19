@@ -92,9 +92,9 @@
   
 </div><br>
   
- <div align="center">
+ <div>
   
-   <p>
+   <p align="center">
      ━─━────༺༻────━─━
    </p>
    
