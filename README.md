@@ -35,8 +35,8 @@
   </p>
  
 </div>
-
-<img align="right" height="350px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+    
+<br><img align="right" height="350px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 
 <div>
