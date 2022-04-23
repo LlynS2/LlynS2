@@ -18,7 +18,7 @@
     </i>
   </p>
   
-  <img align="right" height="350px" src="https://www.pngkey.com/png/full/672-6722040_your-customers-live-in-a-digital-world-today.png">
+  <img align="right" height="300px" src="https://www.pngkey.com/png/full/672-6722040_your-customers-live-in-a-digital-world-today.png">
   
 </div> 
 
