@@ -12,8 +12,9 @@
   <p align="center" >
     <i>
       You who arrived here by parachute or are visiting my GitHub again, enjoy and explore the new projects created by me. 
-      A student Software Developer┃Engineer with a lot of effort, dedication and determination to improve her skills and boost her career.<br>
-      I am currently attending the university ( FIAP ) and always improving myself with new courses, there is no lack of willpower to get ideas off paper and         create new works !!
+      A student Software Developer┃Engineer with a lot of effort, dedication and determination to improve her <a href="https://github.com/LlynS2/My_Skills"> 
+      <b>Skills</b></a> and boost her career.<br> I am currently attending the university ( FIAP ) and always improving myself with new courses, there is no lack of 
+      willpower to get ideas off paper and create new works !!
     </i>
   </p>
   
