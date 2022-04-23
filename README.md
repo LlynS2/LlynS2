@@ -16,83 +16,12 @@
       I am currently attending the university ( FIAP ) and always improving myself with new courses, there is no lack of willpower to get ideas off paper and         create new works !!
     </i>
   </p>
+  
+  <img align="right" height="350px" src="https://www.pngkey.com/png/full/672-6722040_your-customers-live-in-a-digital-world-today.png">
+  
 </div> 
 
 <br>
-
-  <div>
-  
-  <h3>
-    .˚｡⋆ 𝑴𝒚 𝑺𝒌𝒊𝒍𝒍𝒔 <br> ✦ - - - - - - ↷ .    .    .
-  </h3>
-
-  <p align="center">
-    <i> 
-      • ꒰ <b>Based on my skills these are my projects</b>  ꒱ ˎˊ˗   • <br>
-      〘 根据我的技能，这些是我的项目 〙
-    <i>
-  </p>
- 
-</div>
-    
-<br><img align="right" height="350px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-
-
-<div>
-
-   'ೃ ↳<i> Development with the <b>Python</b></i>
-  <br>
- 
-   ㅤㅤㅤㅤㅤ<a href="https://github.com/LlynS2/Python" target="_blank">
-              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-            </a><br>
-
-   'ೃ ↳<i> Development with the <b>Java</b></i>
-  <br>
-  
-  ㅤㅤㅤㅤㅤㅤ <a href="https://github.com/LlynS2/Java" target="_blank">
-                <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
-              </a>
-
-   'ೃ ↳<i> Development with the <b>.Net</b></i>
-  <br>
-  
-   ㅤㅤㅤㅤㅤㅤ<a href="https://github.com/LlynS2/.Net" target="_blank">
-                <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
-              </a>
-
-   'ೃ ↳<i> Development with the <b>NodeJS</b></i>
-  <br>
-  
-   ㅤㅤㅤㅤㅤ<a href="https://github.com/LlynS2/NodeJS" target="_blank">
-              <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
-            </a>
-
-   'ೃ ↳<i> Development with the <b>React</b></i>
-  <br>
-
-   ㅤㅤㅤㅤㅤㅤ<a href="https://github.com/LlynS2/React" target="_blank">
-                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-              </a>
-
-   'ೃ ↳<i> <b>Web modern</b>  with <b>HTML5 , CSS3 and JS<b> </i>
-  <br>
-  
-  <a href="https://github.com/LlynS2/Web_Modern" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-  </a>
-
-  <a href="https://github.com/LlynS2/Web_Modern" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " target="_blank">
-  </a>
-
-  <a href="https://github.com/LlynS2/Web_Modern" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
-  </a>
-  
-</div><br>
-  
- <div>
   
    <p align="center">
      ━─━────༺༻────━─━
