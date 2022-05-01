@@ -1,10 +1,8 @@
-<div  align="left">
+<div align="center">
   
-  <h1 align="center" >
-     • 大家好!!.•ꦿ•
-  </h1>
+  <img height="200px" src="https://user-images.githubusercontent.com/86667062/166164681-c66801f4-31ae-41f7-a364-1e387be87806.png">ㅤ 
   
-  <p>
+  <p align="left">
     ╭── ·· ──── · ────── ··<br>
     ╰─  . ° ∅ ωɦαƭ'ร µρ ?! . °
   </p>
