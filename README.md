@@ -41,7 +41,7 @@
 
 <div>
   
-  <img align="right" height="250px" src="https://99designs-start-static.imgix.net/categories-page/parent-categories/web-04.png?auto=format&ch=Width%2CDPR&h=660&q=50">
+  <img align="right" height="250px" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png">
 ㅤㅤㅤㅤㅤㅤ
    <p align="center">
     “𝑰 𝒉𝒂𝒗𝒆 𝒏𝒆𝒗𝒆𝒓 𝒓𝒆𝒂𝒍𝒍𝒚 𝒃𝒆𝒆𝒏 𝒔𝒂𝒕𝒊𝒔𝒇𝒊𝒆𝒅 𝒘𝒊𝒕𝒉 𝒉𝒐𝒘 𝒎𝒖𝒄𝒉 𝑰 𝒔𝒉𝒐𝒖𝒍𝒅 𝒌𝒏𝒐𝒘; 𝒃𝒆𝒄𝒂𝒖𝒔𝒆, 𝒂𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝒕𝒐 𝒎𝒚 𝒖𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈, 𝒄𝒂𝒏 𝒐𝒏𝒍𝒚 𝒃𝒆 𝒂𝒏 𝒊𝒏𝒇𝒊𝒏𝒊𝒕𝒆𝒔𝒊𝒎𝒂𝒍 𝒑𝒂𝒓𝒕 𝒐𝒇 
