@@ -1,11 +1,15 @@
 <div align="center">
   
-  <img height="200px" src="https://user-images.githubusercontent.com/86667062/166164681-c66801f4-31ae-41f7-a364-1e387be87806.png">ㅤ 
+  <p align="right">
+    ── ·· ──── · ───── ··
+  </p>
+  
+  <img height="200px" width="1600px" src="https://user-images.githubusercontent.com/86667062/166164681-c66801f4-31ae-41f7-a364-1e387be87806.png">ㅤ 
   
   <p align="left">
     ╭── ·· ──── · ────── ··<br>
     ╰─  . ° ∅ ωɦαƭ'ร µρ ?! . °
-  </p>
+  </p><br>
   
   <p>
     𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮 𝐰𝐡𝐨 𝐞𝐧𝐝𝐞𝐝 𝐮𝐩 𝐩𝐚𝐫𝐚𝐜𝐡𝐮𝐭𝐢𝐧𝐠 𝐨𝐫 𝐚𝐫𝐞 𝐛𝐚𝐜𝐤 𝐨𝐧 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛. 𝐅𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐞𝐱𝐩𝐥𝐨𝐫𝐞 𝐚𝐧𝐝 𝐬𝐧𝐨𝐨𝐩 𝐚𝐫𝐨𝐮𝐧𝐝!!<br><br>
@@ -14,8 +18,12 @@
      ᴍᴀᴅᴇ ᴇsᴘᴇᴄɪᴀʟʟʏ ʙʏ ᴍᴇ, ᴀs ᴡᴇʟʟ ᴀs ᴄʜᴀʟʟᴇɴɢᴇs ғʀᴏᴍ ᴍʏ ᴄᴏʟʟᴇɢᴇ ᴀɴᴅ ᴄᴏᴜʀsᴇs ᴀs ᴡᴇʟʟ.
     </i>
   </p><br>
-  
-  <table align="left" >
+ 
+</div>
+
+<div align="left" >
+ 
+   <table align="center" >
     <tr>
       <td align="left">
         ੈ ᴀʀᴇ ʏᴏᴜ ᴇxᴄɪᴛᴇᴅ?!  ꒱ .* ❞
@@ -31,9 +39,9 @@
   
 </div>
 
-<div align="right" >
- 
-   <img height="210px" src="https://user-images.githubusercontent.com/86667062/166165707-1217748e-f715-4fb1-bb65-abe66b1684ef.png">
+<div>
+  
+  <img align="right" height="250px" src="https://99designs-start-static.imgix.net/categories-page/parent-categories/web-04.png?auto=format&ch=Width%2CDPR&h=660&q=50">
 ㅤㅤㅤㅤㅤㅤ
    <p align="center">
     “𝑰 𝒉𝒂𝒗𝒆 𝒏𝒆𝒗𝒆𝒓 𝒓𝒆𝒂𝒍𝒍𝒚 𝒃𝒆𝒆𝒏 𝒔𝒂𝒕𝒊𝒔𝒇𝒊𝒆𝒅 𝒘𝒊𝒕𝒉 𝒉𝒐𝒘 𝒎𝒖𝒄𝒉 𝑰 𝒔𝒉𝒐𝒖𝒍𝒅 𝒌𝒏𝒐𝒘; 𝒃𝒆𝒄𝒂𝒖𝒔𝒆, 𝒂𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝒕𝒐 𝒎𝒚 𝒖𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈, 𝒄𝒂𝒏 𝒐𝒏𝒍𝒚 𝒃𝒆 𝒂𝒏 𝒊𝒏𝒇𝒊𝒏𝒊𝒕𝒆𝒔𝒊𝒎𝒂𝒍 𝒑𝒂𝒓𝒕 𝒐𝒇 
