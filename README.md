@@ -4,7 +4,7 @@
     ── ·· ──── · ───── ··
   </p>
   
-  <img height="200px" width="1600px" src="https://user-images.githubusercontent.com/86667062/166164681-c66801f4-31ae-41f7-a364-1e387be87806.png">ㅤ 
+  <img height="190px" src="https://user-images.githubusercontent.com/86667062/166170905-cd495822-c182-400d-9d88-6eee0f9d2466.png">ㅤ 
   
   <p align="left">
     ╭── ·· ──── · ────── ··<br>
@@ -26,7 +26,7 @@
    <table align="center" >
     <tr>
       <td align="left">
-        ੈ ᴀʀᴇ ʏᴏᴜ ᴇxᴄɪᴛᴇᴅ?!  ꒱ .* ❞
+        ੈ ᴀʀᴇ ʏᴏᴜ  ᴄʜɪᴘᴘᴇʀ?!  ꒱ .* ❞
       </td>
     <tr>  
     <tr>
