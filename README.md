@@ -19,7 +19,7 @@
 
 <div align="left" >
  
-   <table align="center" >
+   <!--<table align="center" >
     <tr>
       <td align="left">
         ੈ ᴀʀᴇ ʏᴏᴜ  ᴄʜɪᴘᴘᴇʀ?!  ꒱ .* ❞
@@ -31,7 +31,7 @@
          ᴘᴜᴛᴛɪɴɢ ᴇᴠᴇɴ ᴍᴏʀᴇ ɴᴇᴡs.
       </td>  
     </tr>
-  </table>
+  </table>--!>
   
 </div>
 
