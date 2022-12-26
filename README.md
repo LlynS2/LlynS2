@@ -17,24 +17,6 @@
  
 </div>
 
-<div align="left" >
- 
-   <!--<table align="center" >
-    <tr>
-      <td align="left">
-        ੈ ᴀʀᴇ ʏᴏᴜ  ᴄʜɪᴘᴘᴇʀ?!  ꒱ .* ❞
-      </td>
-    <tr>  
-    <tr>
-       <td align="left">
-         ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛs ɪ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴘᴏsᴛᴇᴅ ʜᴇʀᴇ ɪɴ ᴍʏ <a href="https://github.com/LlynS2/My_Skills">sᴋɪʟʟs</a>,<br>ʏᴏᴜ ᴄᴀɴ ʙᴇ sᴜʀᴇ ɪ'ʟʟ ʙᴇ 
-         ᴘᴜᴛᴛɪɴɢ ᴇᴠᴇɴ ᴍᴏʀᴇ ɴᴇᴡs.
-      </td>  
-    </tr>
-  </table>--!>
-  
-</div>
-
 <div>
   
   <img align="right" height="250px" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png">
