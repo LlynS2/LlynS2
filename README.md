@@ -30,7 +30,7 @@
   
 </div>
 
-<!--<div align="left" >
+<div align="left" >
  
   <p>
      <a href="https://www.linkedin.com/in/hevellyn-mc-frei-079020219/">≽ ° 𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟 ↷ ˎˊ˗ ࿐°</a>  
@@ -38,4 +38,4 @@
   
   ㅤ<img height="125px" src="https://user-images.githubusercontent.com/86667062/166163505-0223edb3-5504-44d3-a07f-cdaa16d0736d.png">
    ㅤ 
-</div>--!>
+</div>
