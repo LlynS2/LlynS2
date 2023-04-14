@@ -33,9 +33,8 @@
 <div align="left" >
  
   <p>
-     <a href="https://www.linkedin.com/in/hevellyn-freitas-079020219/">≽ ° 𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟 ↷ ˎˊ˗ ࿐°</a>  
+     <a href="https://www.linkedin.com/in/hevellyn-freitas-079020219/">≽ ° 𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟 ↷ ˎˊ˗ ࿐° <br>
+     <img height="120px" src="https://user-images.githubusercontent.com/86667062/232154474-bd4301d6-0a98-42ab-89b8-5a00c8faa6b3.png"></a>  
   </p>
-  
-  ㅤ<img height="125px" src="https://user-images.githubusercontent.com/86667062/166163505-0223edb3-5504-44d3-a07f-cdaa16d0736d.png">
    ㅤ 
 </div>
