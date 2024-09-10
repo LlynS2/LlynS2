@@ -7,12 +7,113 @@
   <p align="center">Innovation and leadership enthusiast, driven by challenges and always seeking to connect my entrepreneurial vision with technical solutions. With a strong background in Software Engineering and Agile methodologies, my focus is on delivering high-quality and excellent results. 
      From IT to cybersecurity and cloud, I enjoy solving complex problems while working with cross-functional teams. My passion for technology drives me to find new ways to make a difference in the digital world.</p>
   <h2><img src="https://github.com/user-attachments/assets/16197bf7-21e8-4029-a37a-1a3c88a1c624" width="20"> Key Skills</h2>  
-    <table>
-        <tbody>
-            <tr><td>Project Management</td><td>Product Management</td><td>Infrastructure and Governance</td><td>Engineering & Software Development</td></tr>
-            <tr><td>Leadership and Communication</td><td>Business Analysis and Strategy</td><td>Emerging Technologies and Artificial Intelligence</td><td>Data Science</td></tr>
-        </tbody>
-    </table>
+<table>
+    <tbody>
+        <tr>
+            <td><h4>Data Science</h4></td>
+            <td><h4>Emerging Technologies and Artificial Intelligence</h4></td>
+            <td><h4>Product Management</h4></td>
+            <td><h4>Project Management</h4></td>
+            <tr><td>
+               <p>
+                  ➲ Databases<br>
+                  ➲ Data Modeling<br>
+                  ➲ Microsoft Power BI
+               </p>
+            </td>
+            <td>
+               <p>
+                  ➲ Artificial Intelligence<br>
+                  ➲ ChatGPT<br>
+                  ➲ OpenAI<br>
+                  ➲ Prompt Engineering<br>
+                  ➲ IoT<br>
+                  ➲ IBM Watson
+               </p>
+            </td>
+            <td>
+                <p>
+                  ➲ Software Product Development<br>
+                  ➲ Software Product Creation<br>
+                  ➲ Figma (Software)<br>
+                  ➲ User Interface Prototyping (UI/UX)
+                </p>
+            </td>
+            <td>
+                <p>
+                  ➲ Project Estimation<br>
+                  ➲ Project Planning<br>
+                  ➲ Software Project Management<br>
+                  ➲ Project Delivery<br>
+                  ➲ Multiple Project Coordination
+                </p>
+            </td>
+        </tr>
+        <tr>
+          <td><h4>Business Analysis and Strategy</h4></td>
+            <td><h4>Leadership and Communication</h4></td>
+            <td><h4>Engineering & Software Development</h4></td>
+            <td><h4>Infrastructure and Governance</h4></td>
+            <tr><td>
+                <p>
+                  ➲ Business Strategy<br>
+                  ➲ Business Planning<br>
+                  ➲ Financial Analysis<br>
+                  ➲ Data Analysis<br>
+                  ➲ Business Analysis<br>
+                  ➲ Digital Strategy<br>
+                  ➲ Customer Success<br>
+                  ➲ Customer Relationship Management (CRM)<br>
+                  ➲ Business Process
+                </p>
+            </td>
+            <td>
+                <p>
+                  ➲ Agile Leadership<br>
+                  ➲ Team Leadership<br>
+                  ➲ Leadership Development<br>
+                  ➲ Interpersonal Communication<br>
+                  ➲ Business Communication<br>
+                  ➲ Oratory<br>
+                  ➲ Strategic Planning<br>
+                  ➲ Strategic Partnerships<br>
+                  ➲ Negotiation<br>
+                  ➲ Stakeholder Relations
+                </p>
+            </td>
+            <td>
+                <p>
+                  ➲ Software Architecture<br>
+                  ➲ Front-End Development<br>
+                  ➲ Back-End Development<br>
+                  ➲ REST APIs<br>
+                  ➲ API Testing<br>
+                  ➲ Object-Oriented Programming (OOP)<br>
+                  ➲ Python<br>
+                  ➲ Java<br>
+                  ➲ Kotlin<br>
+                  ➲ Logic Programming<br>
+                  ➲ Docker
+                </p>
+            </td>
+            <td>
+                <p>
+                  ➲ IT Governance<br>
+                  ➲ Corporate Governance<br>
+                  ➲ Computer Networks<br>
+                  ➲ Google Cloud Platform (GCP)<br>
+                  ➲ Amazon Web Services (AWS)<br>
+                  ➲ Azure DevOps Server<br>
+                  ➲ Notion Productivity Software (Notion)<br>
+                  ➲ Microsoft Power BI<br>
+                  ➲ System Deployment<br>
+                  ➲ Environmental Monitoring<br>
+                  ➲ Quality Control
+                </p>
+            </td>
+        </tr>
+    </tbody>
+ </table>
 </div>
 <div>
   <h2>Companies</h2>
