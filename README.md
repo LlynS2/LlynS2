@@ -7,7 +7,7 @@
 <div>
   <p align="center">Entusiasta de la innovación y el liderazgo, impulsada por desafíos y siempre buscando conectar mi visión emprendedora con soluciones técnicas. Con una sólida formación en Ingeniería de Software y metodologías ágiles, mi enfoque está en ofrecer resultados de alta calidad y excelencia. 
      Desde TI hasta ciberseguridad y nube, disfruto resolviendo problemas complejos mientras trabajo con equipos multidisciplinarios. Mi pasión por la tecnología me impulsa a encontrar nuevas formas de marcar la diferencia en el mundo digital.</p>
-  <h2>Habilidades Principales</h2>  
+  <h2><img src="https://github.com/user-attachments/assets/16197bf7-21e8-4029-a37a-1a3c88a1c624" width="20"> Habilidades Principales</h2>  
     <table>
         <tbody>
             <tr><td>Gestión de Proyectos</td><td>Gestión de Productos</td><td>Infraestructura y Gobernanza</td><td>Ingeniería & Desarrollo de Software</td></tr>
