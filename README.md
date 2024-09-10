@@ -8,11 +8,112 @@
      从IT到网络安全和云计算，我喜欢在跨职能团队中解决复杂问题。对技术的热情驱使我不断寻找在数字世界中产生影响的新方法。</p>
   <h2><img src="https://github.com/user-attachments/assets/16197bf7-21e8-4029-a37a-1a3c88a1c624" width="20"> 主要技能</h2>  
     <table>
-        <tbody>
-            <tr><td>项目管理</td><td>产品管理</td><td>基础设施与治理</td><td>工程与软件开发</td></tr>
-            <tr><td>领导力与沟通</td><td>业务分析与战略</td><td>新兴技术与人工智能</td><td>数据科学</td></tr>
-        </tbody>
-    </table>
+    <tbody>
+        <tr>
+            <td><h4>数据科学</h4></td>
+            <td><h4>新兴技术与人工智能</h4></td>
+            <td><h4>产品管理</h4></td>
+            <td><h4>项目管理</h4></td>
+            <tr><td>
+               <p>
+                  ➲ 数据库<br>
+                  ➲ 数据建模<br>
+                  ➲ Microsoft Power BI
+               </p>
+            </td>
+            <td>
+               <p>
+                  ➲ 人工智能<br>
+                  ➲ ChatGPT<br>
+                  ➲ OpenAI<br>
+                  ➲ 提示工程<br>
+                  ➲ 物联网 (IoT)<br>
+                  ➲ IBM Watson
+               </p>
+            </td>
+            <td>
+                <p>
+                  ➲ 软件产品开发<br>
+                  ➲ 软件产品创建<br>
+                  ➲ Figma (软件)<br>
+                  ➲ 用户界面原型设计 (UI/UX)
+                </p>
+            </td>
+            <td>
+                <p>
+                  ➲ 项目估算<br>
+                  ➲ 项目规划<br>
+                  ➲ 软件项目管理<br>
+                  ➲ 项目交付<br>
+                  ➲ 多项目协调
+                </p>
+            </td>
+        </tr>
+        <tr>
+          <td><h4>业务分析与战略</h4></td>
+            <td><h4>领导力与沟通</h4></td>
+            <td><h4>软件工程与开发</h4></td>
+            <td><h4>基础设施与治理</h4></td>
+            <tr><td>
+                <p>
+                  ➲ 业务战略<br>
+                  ➲ 业务规划<br>
+                  ➲ 财务分析<br>
+                  ➲ 数据分析<br>
+                  ➲ 业务分析<br>
+                  ➲ 数字战略<br>
+                  ➲ 客户成功<br>
+                  ➲ 客户关系管理 (CRM)<br>
+                  ➲ 业务流程
+                </p>
+            </td>
+            <td>
+                <p>
+                  ➲ 敏捷领导<br>
+                  ➲ 团队领导<br>
+                  ➲ 领导力发展<br>
+                  ➲ 人际沟通<br>
+                  ➲ 商务沟通<br>
+                  ➲ 演讲<br>
+                  ➲ 战略规划<br>
+                  ➲ 战略合作伙伴<br>
+                  ➲ 谈判<br>
+                  ➲ 利益相关者关系
+                </p>
+            </td>
+            <td>
+                <p>
+                  ➲ 软件架构<br>
+                  ➲ 前端开发<br>
+                  ➲ 后端开发<br>
+                  ➲ REST APIs<br>
+                  ➲ API 测试<br>
+                  ➲ 面向对象编程 (OOP)<br>
+                  ➲ Python<br>
+                  ➲ Java<br>
+                  ➲ Kotlin<br>
+                  ➲ 逻辑编程<br>
+                  ➲ Docker
+                </p>
+            </td>
+            <td>
+                <p>
+                  ➲ IT治理<br>
+                  ➲ 企业治理<br>
+                  ➲ 计算机网络<br>
+                  ➲ Google Cloud Platform (GCP)<br>
+                  ➲ Amazon Web Services (AWS)<br>
+                  ➲ Azure DevOps Server<br>
+                  ➲ Notion Productivity Software (Notion)<br>
+                  ➲ Microsoft Power BI<br>
+                  ➲ 系统部署<br>
+                  ➲ 环境监测<br>
+                  ➲ 质量控制
+                </p>
+            </td>
+        </tr>
+    </tbody>
+ </table>
 </div>
 <div>
   <h2>公司</h2>
