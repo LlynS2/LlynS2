@@ -40,7 +40,7 @@
   </table>
 </div>
 <div align="right">
-    <img src="https://github.com/user-attachments/assets/d9518f71-5305-45e2-b37e-b88b10870fd5" width="75"><br>
+    <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219" target="_blank"><img src="https://github.com/user-attachments/assets/d9518f71-5305-45e2-b37e-b88b10870fd5" width="75"></a><br>
     <img src="https://github.com/user-attachments/assets/263ef797-0dff-4f87-85d4-879835c04883" width="100">
 </div>
 
