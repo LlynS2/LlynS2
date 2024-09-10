@@ -8,7 +8,7 @@
   <p align="center" >Entusiasta da inovação e liderança, movida por desafios e sempre buscando conectar minha visão empreendedora com soluções técnicas. Com forte background em Engenharia de Software e metodologias Ágeis, meu foco é entregar resultados de alta 
      qualidade e excelência. 
      De TI à segurança cibernética e nuvem, eu gosto de resolver problemas complexos enquanto trabalho com equipes multidisciplinares. A paixão por tecnologia me guia na busca por novas formas de fazer a diferença no mundo digital.</p>
-  <h2>Habilidades Principais</h2>  
+  <h2><img src="https://github.com/user-attachments/assets/16197bf7-21e8-4029-a37a-1a3c88a1c624" width="20"> Habilidades Principais</h2>  
     <table>
         <tbody>
             <tr><td>Gestão de Projetos</td><td>Gestão de Produtos</td><td>Infraestrutura e Governança</td><td>Engenharia & Desenvolvimento de Software</td></tr>
@@ -40,6 +40,10 @@
       </tr>
     </tbody>
   </table>
+</div>
+<div align="right">
+  <p>LinkedIn>
+</p>
 </div>
 
 
