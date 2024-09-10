@@ -5,7 +5,7 @@
 <p>________________________________________________________________</p><br>
 
 <div>
-  <p align="center">Entusiasta de la innovación y el liderazgo, impulsada por desafíos y siempre buscando conectar mi visión emprendedora con soluciones técnicas. Con una sólida formación en Ingeniería de Software y metodologías ágiles (Scrum), mi enfoque está en ofrecer resultados de alta calidad y excelencia. 
+  <p align="center">Entusiasta de la innovación y el liderazgo, impulsada por desafíos y siempre buscando conectar mi visión emprendedora con soluciones técnicas. Con una sólida formación en Ingeniería de Software y metodologías ágiles, mi enfoque está en ofrecer resultados de alta calidad y excelencia. 
      Desde TI hasta ciberseguridad y nube, disfruto resolviendo problemas complejos mientras trabajo con equipos multidisciplinarios. Mi pasión por la tecnología me impulsa a encontrar nuevas formas de marcar la diferencia en el mundo digital.</p>
   <h2>Habilidades Principales</h2>  
     <table>
