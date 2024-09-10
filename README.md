@@ -4,7 +4,7 @@
 <p>________________________________________________________________</p><br>
 
 <div>
-  <p align="center">Innovation and leadership enthusiast, driven by challenges and always seeking to connect my entrepreneurial vision with technical solutions. With a strong background in Software Engineering and Agile methodologies (Scrum), my focus is on delivering high-quality and excellent results. 
+  <p align="center">Innovation and leadership enthusiast, driven by challenges and always seeking to connect my entrepreneurial vision with technical solutions. With a strong background in Software Engineering and Agile methodologies, my focus is on delivering high-quality and excellent results. 
      From IT to cybersecurity and cloud, I enjoy solving complex problems while working with cross-functional teams. My passion for technology drives me to find new ways to make a difference in the digital world.</p>
   <h2>Key Skills</h2>  
     <table>
