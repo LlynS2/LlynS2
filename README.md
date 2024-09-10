@@ -18,35 +18,35 @@
             <td><h4>Gestão de Projetos</h4></td>
             <tr><td>
                <p>
-                  ✅ Bancos de Dados<br>
-                  ✅ Modelagem de Dados<br>
-                  ✅ Microsoft Power BI
+                  ➲ Bancos de Dados<br>
+                  ➲ Modelagem de Dados<br>
+                  ➲ Microsoft Power BI
                </p>
             </td>
             <td>
                <p>
-                  ✅ Inteligência Artificial<br>
-                  ✅ ChatGPT<br>
-                  ✅ OpenAI<br>
-                  ✅ Engenharia de Prompts<br>
-                  ✅ IoT
+                  ➲ Inteligência Artificial<br>
+                  ➲ ChatGPT<br>
+                  ➲ OpenAI<br>
+                  ➲ Engenharia de Prompts<br>
+                  ➲ IoT
                </p>
             </td>
             <td>
                 <p>
-                  ✅ Desenvolvimento de Produtos de Softwares<br>
-                  ✅ Criação de Produtos de Softwares<br>
-                  ✅ Figma (Software)<br>
-                  ✅ Prototipagem de Interface de Usuário (UI/UX)
+                  ➲ Desenvolvimento de Produtos de Softwares<br>
+                  ➲ Criação de Produtos de Softwares<br>
+                  ➲ Figma (Software)<br>
+                  ➲ Prototipagem de Interface de Usuário (UI/UX)
                 </p>
             </td>
             <td>
                 <p>
-                  ✅ Estimativa de Projetos<br>
-                  ✅ Planejamento de Projetos<br>
-                  ✅ Gestão de Projetos de Software<br>
-                  ✅ Entrega de Projetos<br>
-                  ✅ Coordenação de Múltiplos Projetos
+                  ➲ Estimativa de Projetos<br>
+                  ➲ Planejamento de Projetos<br>
+                  ➲ Gestão de Projetos de Software<br>
+                  ➲ Entrega de Projetos<br>
+                  ➲ Coordenação de Múltiplos Projetos
                 </p>
             </td>
         </tr>
@@ -57,60 +57,60 @@
             <td><h4>Infraestrutura e Governança</h4></td>
             <tr><td>
                 <p>
-                  ✅ Estratégia de Negócios<br>
-                  ✅ Planejamento de Negócios<br>
-                  ✅ Análise Financeira<br>
-                  ✅ Análise de Dados<br>
-                  ✅ Análise de Negócios<br>
-                  ✅ Estratégia Digital<br>
-                  ✅ Sucesso do Cliente<br>
-                  ✅ Customer Relationship Management (CRM)<br>
-                  ✅ Processo de Negócios
+                  ➲ Estratégia de Negócios<br>
+                  ➲ Planejamento de Negócios<br>
+                  ➲ Análise Financeira<br>
+                  ➲ Análise de Dados<br>
+                  ➲ Análise de Negócios<br>
+                  ➲ Estratégia Digital<br>
+                  ➲ Sucesso do Cliente<br>
+                  ➲ Customer Relationship Management (CRM)<br>
+                  ➲ Processo de Negócios
                 </p>
             </td>
             <td>
                 <p>
-                  ✅ Liderança Ágil<br>
-                  ✅ Liderança de Equipe<br>
-                  ✅ Desenvolvimento de Liderança<br>
-                  ✅ Comunicação Interpessoal<br>
-                  ✅ Comunicação Empresarial<br>
-                  ✅ Oratória<br>
-                  ✅ Planejamento Estratégico<br>
-                  ✅ Parcerias Estratégicas<br>
-                  ✅ Negociação<br>
-                  ✅ Relações com Stakeholders
+                  ➲ Liderança Ágil<br>
+                  ➲ Liderança de Equipe<br>
+                  ➲ Desenvolvimento de Liderança<br>
+                  ➲ Comunicação Interpessoal<br>
+                  ➲ Comunicação Empresarial<br>
+                  ➲ Oratória<br>
+                  ➲ Planejamento Estratégico<br>
+                  ➲ Parcerias Estratégicas<br>
+                  ➲ Negociação<br>
+                  ➲ Relações com Stakeholders
                 </p>
             </td>
             <td>
                 <p>
-                  ✅ Arquitetura de Software<br>
-                  ✅ Desenvolvimento Front-End<br>
-                  ✅ Desenvolvimento Back-End<br>
-                  ✅ REST APIs<br>
-                  ✅ Teste de APIs<br>
-                  ✅ Programação Orientada a Objetos (OOP)<br>
-                  ✅ Python<br>
-                  ✅ Java<br>
-                  ✅ Kotlin<br>
-                  ✅ Programação Lógica<br>
-                  ✅ Docker
+                  ➲ Arquitetura de Software<br>
+                  ➲ Desenvolvimento Front-End<br>
+                  ➲ Desenvolvimento Back-End<br>
+                  ➲ REST APIs<br>
+                  ➲ Teste de APIs<br>
+                  ➲ Programação Orientada a Objetos (OOP)<br>
+                  ➲ Python<br>
+                  ➲ Java<br>
+                  ➲ Kotlin<br>
+                  ➲ Programação Lógica<br>
+                  ➲ Docker
                 </p>
             </td>
             <td>
                 <p>
-                  ✅ Governança de TI<br>
-                  ✅ Governança Corporativa<br>
-                  ✅ Redes de Computadores<br>
-                  ✅ Google Cloud Platform (GCP)<br>
-                  ✅ Amazon Web Services (AWS)<br>
-                  ✅ IBM Watson<br>
-                  ✅ Azure DevOps Server<br>
-                  ✅ Notion Productivity Software (Notion)<br>
-                  ✅ Microsoft Power BI<br>
-                  ✅ Implantação de Sistemas<br>
-                  ✅ Monitoramento Ambiental<br>
-                  ✅ Controle de Qualidade
+                  ➲ Governança de TI<br>
+                  ➲ Governança Corporativa<br>
+                  ➲ Redes de Computadores<br>
+                  ➲ Google Cloud Platform (GCP)<br>
+                  ➲ Amazon Web Services (AWS)<br>
+                  ➲ IBM Watson<br>
+                  ➲ Azure DevOps Server<br>
+                  ➲ Notion Productivity Software (Notion)<br>
+                  ➲ Microsoft Power BI<br>
+                  ➲ Implantação de Sistemas<br>
+                  ➲ Monitoramento Ambiental<br>
+                  ➲ Controle de Qualidade
                 </p>
             </td>
         </tr>
