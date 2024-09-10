@@ -122,24 +122,24 @@
   <table>
     <tbody>
       <tr>
-        <td><img src="https://github.com/user-attachments/assets/25d8d17c-e721-4885-a8b9-c41ed10bbacf" width="57"></td>
-        <td><img src="https://github.com/user-attachments/assets/8f6553f2-6de7-4f5c-bd7c-a4e1ded3f6a7" width="57"></td>
-        <td><img src="https://github.com/user-attachments/assets/371788ba-379a-464f-980e-3265221fcca8" width="75"></td>
-        <td><img src="https://github.com/user-attachments/assets/ec8dcdc6-f30c-4276-a032-da2fb459908e" width="57"></td>
-        <td><img src="https://github.com/user-attachments/assets/4d043c02-2fb4-4042-a2c4-41219c214373" width="75"></td>
-        <td><img src="https://github.com/user-attachments/assets/96987f7c-8781-4664-a089-b25485e197f5" width="65"></td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" width="65"></td>
-        <td><img src="https://github.com/user-attachments/assets/df9c855f-95f3-4892-adb4-508dac3655e2" width="85"></td>
+        <td><img src="https://github.com/user-attachments/assets/25d8d17c-e721-4885-a8b9-c41ed10bbacf" alt="FIAP" width="57"></td>
+        <td><img src="https://github.com/user-attachments/assets/8f6553f2-6de7-4f5c-bd7c-a4e1ded3f6a7" alt="USP" width="57"></td>
+        <td><img src="https://github.com/user-attachments/assets/371788ba-379a-464f-980e-3265221fcca8" alt="Pernambucanas" width="75"></td>
+        <td><img src="https://github.com/user-attachments/assets/ec8dcdc6-f30c-4276-a032-da2fb459908e" alt="Pefisa" width="57"></td>
+        <td><img src="https://github.com/user-attachments/assets/4d043c02-2fb4-4042-a2c4-41219c214373" alt="IBM" width="75"></td>
+        <td><img src="https://github.com/user-attachments/assets/96987f7c-8781-4664-a089-b25485e197f5" alt="Globant" width="65"></td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="65"></td>
+        <td><img src="https://github.com/user-attachments/assets/df9c855f-95f3-4892-adb4-508dac3655e2" alt="MIT" width="85"></td>
       </tr>
       <tr>
-        <td><img src="https://github.com/user-attachments/assets/5841fa53-601e-46d4-b875-1efcf8652d08" width="75"></td>
-        <td><img src="https://github.com/user-attachments/assets/c1e293ac-75d0-41d6-9143-d09715e89830" width="75"></td>
-        <td><img src="https://github.com/user-attachments/assets/44f293f0-c32c-42e8-a3f2-a6f692ccc408" width="75"></td>
-        <td><img src="https://github.com/user-attachments/assets/874b4429-14cf-414e-9a84-82b1a3e5740a" width="85"></td>
-        <td><img src="https://github.com/user-attachments/assets/fd28537e-69e3-4a1a-8b56-e2658d3835bb" width="85"></td>
-        <td><img src="https://github.com/user-attachments/assets/f0b68583-1b7d-44c6-bbc4-7f8aeda99b3b" width="85"></td>
-        <td><img src="https://github.com/user-attachments/assets/612541d8-e2fb-4b0d-b132-c907ff819358" width="95"></td>
-        <td><img src="https://github.com/user-attachments/assets/06ac6c2d-651a-4ed5-90aa-f4aecbee5a1d" width="105"></td>
+        <td><img src="https://github.com/user-attachments/assets/5841fa53-601e-46d4-b875-1efcf8652d08" alt="Google" width="75"></td>
+        <td><img src="https://github.com/user-attachments/assets/c1e293ac-75d0-41d6-9143-d09715e89830" alt="Target Sistemas" width="75"></td>
+        <td><img src="https://github.com/user-attachments/assets/44f293f0-c32c-42e8-a3f2-a6f692ccc408" alt="Ada Tech" width="75"></td>
+        <td><img src="https://github.com/user-attachments/assets/874b4429-14cf-414e-9a84-82b1a3e5740a" alt="Stellantis" width="85"></td>
+        <td><img src="https://github.com/user-attachments/assets/fd28537e-69e3-4a1a-8b56-e2658d3835bb" alt="BRQ" width="85"></td>
+        <td><img src="https://github.com/user-attachments/assets/f0b68583-1b7d-44c6-bbc4-7f8aeda99b3b" alt="BAYER" width="85"></td>
+        <td><img src="https://github.com/user-attachments/assets/612541d8-e2fb-4b0d-b132-c907ff819358" alt="Harvard University" width="95"></td>
+        <td><img src="https://github.com/user-attachments/assets/06ac6c2d-651a-4ed5-90aa-f4aecbee5a1d" alt="Harvard Business Publishing Education" width="105"></td>
       </tr>
     </tbody>
   </table>
