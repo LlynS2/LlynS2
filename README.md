@@ -5,7 +5,7 @@
 <p>________________________________________________________________</p><br>
 
 <div>
-  <p align="center" >Entusiasta da inovação e liderança, movida por desafios e sempre buscando conectar minha visão empreendedora com soluções técnicas. Com forte background em Engenharia de Software e metodologias Ágeis (Scrum), meu foco é entregar resultados de alta 
+  <p align="center" >Entusiasta da inovação e liderança, movida por desafios e sempre buscando conectar minha visão empreendedora com soluções técnicas. Com forte background em Engenharia de Software e metodologias Ágeis, meu foco é entregar resultados de alta 
      qualidade e excelência. 
      De TI à segurança cibernética e nuvem, eu gosto de resolver problemas complexos enquanto trabalho com equipes multidisciplinares. A paixão por tecnologia me guia na busca por novas formas de fazer a diferença no mundo digital.</p>
   <h2>Habilidades Principais</h2>  
