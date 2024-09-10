@@ -29,7 +29,8 @@
                   ➲ ChatGPT<br>
                   ➲ OpenAI<br>
                   ➲ Engenharia de Prompts<br>
-                  ➲ IoT
+                  ➲ IoT<br>
+                  ➲ IBM Watson
                </p>
             </td>
             <td>
@@ -104,7 +105,6 @@
                   ➲ Redes de Computadores<br>
                   ➲ Google Cloud Platform (GCP)<br>
                   ➲ Amazon Web Services (AWS)<br>
-                  ➲ IBM Watson<br>
                   ➲ Azure DevOps Server<br>
                   ➲ Notion Productivity Software (Notion)<br>
                   ➲ Microsoft Power BI<br>
