@@ -12,23 +12,27 @@
 <table>
     <tbody>
         <tr>
-            <td><h2>Ciência de Dados</h2>
-                <p>
+            <td><h4>Ciência de Dados</h4></td>
+            <td><h4>Tecnologias Emergentes e Inteligência Artificial</h4></td>
+            <td><h4>Gestão de Produtos</h4></td>
+            <td><h4>Gestão de Projetos</h4></td>
+            <tr><td>
+               <p>
                   ✅ Bancos de Dados<br>
                   ✅ Modelagem de Dados<br>
                   ✅ Microsoft Power BI
-                </p>
+               </p>
             </td>
-            <td><h2>Tecnologias Emergentes e Inteligência Artificial</h2>
-                <p>
+            <td>
+               <p>
                   ✅ Inteligência Artificial<br>
                   ✅ ChatGPT<br>
                   ✅ OpenAI<br>
                   ✅ Engenharia de Prompts<br>
                   ✅ IoT
-                </p>
+               </p>
             </td>
-            <td><h2>Gestão de Produtos</h2>
+            <td>
                 <p>
                   ✅ Desenvolvimento de Produtos de Softwares<br>
                   ✅ Criação de Produtos de Softwares<br>
@@ -36,7 +40,7 @@
                   ✅ Prototipagem de Interface de Usuário (UI/UX)
                 </p>
             </td>
-            <td><h2>Gestão de Projetos</h2>
+            <td>
                 <p>
                   ✅ Estimativa de Projetos<br>
                   ✅ Planejamento de Projetos<br>
@@ -47,7 +51,11 @@
             </td>
         </tr>
         <tr>
-          <td><h2>Análise de Negócios e Estratégia</h2>
+          <td><h4>Análise de Negócios e Estratégia</h4></td>
+            <td><h4>Liderança e Comunicação</h4></td>
+            <td><h4>Engenharia & Desenvolvimento de Software</h4></td>
+            <td><h4>Infraestrutura e Governança</h4></td>
+            <tr><td>
                 <p>
                   ✅ Estratégia de Negócios<br>
                   ✅ Planejamento de Negócios<br>
@@ -60,7 +68,7 @@
                   ✅ Processo de Negócios
                 </p>
             </td>
-            <td><h2>Liderança e Comunicação</h2>
+            <td>
                 <p>
                   ✅ Liderança Ágil<br>
                   ✅ Liderança de Equipe<br>
@@ -74,7 +82,7 @@
                   ✅ Relações com Stakeholders
                 </p>
             </td>
-            <td><h2>Engenharia & Desenvolvimento de Software</h2>
+            <td>
                 <p>
                   ✅ Arquitetura de Software<br>
                   ✅ Desenvolvimento Front-End<br>
@@ -89,7 +97,7 @@
                   ✅ Docker
                 </p>
             </td>
-            <td><h2>Infraestrutura e Governança</h2>
+            <td>
                 <p>
                   ✅ Governança de TI<br>
                   ✅ Governança Corporativa<br>
