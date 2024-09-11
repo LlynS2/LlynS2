@@ -7,6 +7,20 @@
 <div>
   <p align="center">저는 혁신과 리더십에 열정적인 사람으로, 도전을 통해 성장하며 항상 제 기업가적 비전을 기술 솔루션과 연결하는 방법을 찾고 있습니다. 소프트웨어 엔지니어링과 애자일 방법론에 대한 탄탄한 배경을 바탕으로, 저는 고품질의 우수한 결과를 제공하는 데 주력하고 있습니다.
      IT에서부터 사이버 보안 및 클라우드에 이르기까지, 저는 다학제적 팀과 함께 복잡한 문제를 해결하는 것을 즐깁니다. 기술에 대한 열정은 제가 디지털 세계에서 변화를 일으킬 새로운 방법을 찾도록 이끕니다.</p>
+</div>
+<div>
+    <h2>프로젝트</h2>
+   <table align="center">
+    <tbody>
+        <tr>
+            <td><h4><a href="https://github.com/LlynS2/Personal-Projects/tree/한국어" target="_blank">개인 프로젝트</h4></a></td>
+            <td><h4><a href="https://github.com/LlynS2/Academic-Projects/tree/한국어" target="_blank">학술 프로젝트</h4></a></td>
+            <td><h4><a href="https://github.com/LlynS2/Professional-Projects/tree/한국어" target="_blank">전문 프로젝트</h4></a></td>
+        </tr>
+    </tbody>
+ </table>
+</div>
+<div>
   <h2><img src="https://github.com/user-attachments/assets/16197bf7-21e8-4029-a37a-1a3c88a1c624" width="20"> 주요 기술</h2>  
     <table>
     <tbody>
@@ -15,103 +29,12 @@
             <td><h4>신기술 및 인공지능</h4></td>
             <td><h4>제품 관리</h4></td>
             <td><h4>프로젝트 관리</h4></td>
-            <tr><td>
-               <p>
-                  ➲ 데이터베이스<br>
-                  ➲ 데이터 모델링<br>
-                  ➲ Microsoft Power BI
-               </p>
-            </td>
-            <td>
-               <p>
-                  ➲ 인공지능 (AI)<br>
-                  ➲ ChatGPT<br>
-                  ➲ OpenAI<br>
-                  ➲ 프롬프트 엔지니어링<br>
-                  ➲ 사물인터넷 (IoT)<br>
-                  ➲ IBM Watson
-               </p>
-            </td>
-            <td>
-                <p>
-                  ➲ 소프트웨어 제품 개발<br>
-                  ➲ 소프트웨어 제품 생성<br>
-                  ➲ Figma (소프트웨어)<br>
-                  ➲ 사용자 인터페이스 프로토타이핑 (UI/UX)
-                </p>
-            </td>
-            <td>
-                <p>
-                  ➲ 프로젝트 추정<br>
-                  ➲ 프로젝트 계획<br>
-                  ➲ 소프트웨어 프로젝트 관리<br>
-                  ➲ 프로젝트 전달<br>
-                  ➲ 다중 프로젝트 조정
-                </p>
-            </td>
         </tr>
         <tr>
           <td><h4>비즈니스 분석 및 전략</h4></td>
             <td><h4>리더십 및 커뮤니케이션</h4></td>
             <td><h4>소프트웨어 엔지니어링 및 개발</h4></td>
             <td><h4>인프라 및 거버넌스</h4></td>
-            <tr><td>
-                <p>
-                  ➲ 비즈니스 전략<br>
-                  ➲ 비즈니스 계획<br>
-                  ➲ 재무 분석<br>
-                  ➲ 데이터 분석<br>
-                  ➲ 비즈니스 분석<br>
-                  ➲ 디지털 전략<br>
-                  ➲ 고객 성공<br>
-                  ➲ 고객 관계 관리 (CRM)<br>
-                  ➲ 비즈니스 프로세스
-                </p>
-            </td>
-            <td>
-                <p>
-                  ➲ 애자일 리더십<br>
-                  ➲ 팀 리더십<br>
-                  ➲ 리더십 개발<br>
-                  ➲ 대인 커뮤니케이션<br>
-                  ➲ 비즈니스 커뮤니케이션<br>
-                  ➲ 연설<br>
-                  ➲ 전략 계획<br>
-                  ➲ 전략적 파트너십<br>
-                  ➲ 협상<br>
-                  ➲ 이해 관계자 관계
-                </p>
-            </td>
-            <td>
-                <p>
-                  ➲ 소프트웨어 아키텍처<br>
-                  ➲ 프론트엔드 개발<br>
-                  ➲ 백엔드 개발<br>
-                  ➲ REST APIs<br>
-                  ➲ API 테스트<br>
-                  ➲ 객체 지향 프로그래밍 (OOP)<br>
-                  ➲ Python<br>
-                  ➲ Java<br>
-                  ➲ Kotlin<br>
-                  ➲ 논리 프로그래밍<br>
-                  ➲ Docker
-                </p>
-            </td>
-            <td>
-                <p>
-                  ➲ IT 거버넌스<br>
-                  ➲ 기업 거버넌스<br>
-                  ➲ 컴퓨터 네트워크<br>
-                  ➲ Google Cloud Platform (GCP)<br>
-                  ➲ Amazon Web Services (AWS)<br>
-                  ➲ Azure DevOps Server<br>
-                  ➲ Notion 생산성 소프트웨어 (Notion)<br>
-                  ➲ Microsoft Power BI<br>
-                  ➲ 시스템 배포<br>
-                  ➲ 환경 모니터링<br>
-                  ➲ 품질 관리
-                </p>
-            </td>
         </tr>
     </tbody>
  </table>
