@@ -150,3 +150,9 @@
     <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219" target="_blank"><img src="https://github.com/user-attachments/assets/d9518f71-5305-45e2-b37e-b88b10870fd5" width="75"></a><br>
     <img src="https://github.com/user-attachments/assets/263ef797-0dff-4f87-85d4-879835c04883" width="140">
 </div>
+<div align="center">
+   <footer>
+        &copy; 𝟐𝟎𝟐𝟒 𝐗𝐑𝐞𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧 | 𝐇𝐌𝐅 - 𝐓𝐨𝐝𝐨𝐬 𝐥𝐨𝐬 𝐝𝐞𝐫𝐞𝐜𝐡𝐨𝐬 𝐫𝐞𝐬𝐞𝐫𝐯𝐚𝐝𝐨𝐬.
+    </footer>
+</div>
+
