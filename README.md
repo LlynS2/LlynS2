@@ -7,6 +7,20 @@
 <div>
   <p align="center">Entusiasta de la innovación y el liderazgo, impulsada por desafíos y siempre buscando conectar mi visión emprendedora con soluciones técnicas. Con una sólida formación en Ingeniería de Software y metodologías ágiles, mi enfoque está en ofrecer resultados de alta calidad y excelencia. 
      Desde TI hasta ciberseguridad y nube, disfruto resolviendo problemas complejos mientras trabajo con equipos multidisciplinarios. Mi pasión por la tecnología me impulsa a encontrar nuevas formas de marcar la diferencia en el mundo digital.</p>
+</div>
+<div>
+    <h2>Proyectos</h2>
+   <table align="center">
+    <tbody>
+        <tr>
+            <td><h4><a href="https://github.com/LlynS2/Personal-Projects/tree/Español" target="_blank">Proyectos Personales</h4></a></td>
+            <td><h4><a href="https://github.com/LlynS2/Academic-Projects/tree/Español" target="_blank">Proyectos Académicos</h4></a></td>
+            <td><h4><a href="https://github.com/LlynS2/Professional-Projects/tree/Español" target="_blank">Proyectos Profesionales</h4></a></td>
+        </tr>
+    </tbody>
+ </table>
+</div>
+<div>  
   <h2><img src="https://github.com/user-attachments/assets/16197bf7-21e8-4029-a37a-1a3c88a1c624" width="20"> Habilidades Principales</h2>  
     <table>
     <tbody>
@@ -15,103 +29,12 @@
             <td><h4>Tecnologías Emergentes e Inteligencia Artificial</h4></td>
             <td><h4>Gestión de Productos</h4></td>
             <td><h4>Gestión de Proyectos</h4></td>
-            <tr><td>
-               <p>
-                  ➲ Bases de Datos<br>
-                  ➲ Modelado de Datos<br>
-                  ➲ Microsoft Power BI
-               </p>
-            </td>
-            <td>
-               <p>
-                  ➲ Inteligencia Artificial<br>
-                  ➲ ChatGPT<br>
-                  ➲ OpenAI<br>
-                  ➲ Ingeniería de Prompts<br>
-                  ➲ IoT<br>
-                  ➲ IBM Watson
-               </p>
-            </td>
-            <td>
-                <p>
-                  ➲ Desarrollo de Productos de Software<br>
-                  ➲ Creación de Productos de Software<br>
-                  ➲ Figma (Software)<br>
-                  ➲ Prototipado de Interfaz de Usuario (UI/UX)
-                </p>
-            </td>
-            <td>
-                <p>
-                  ➲ Estimación de Proyectos<br>
-                  ➲ Planificación de Proyectos<br>
-                  ➲ Gestión de Proyectos de Software<br>
-                  ➲ Entrega de Proyectos<br>
-                  ➲ Coordinación de Múltiples Proyectos
-                </p>
-            </td>
         </tr>
         <tr>
           <td><h4>Análisis de Negocios y Estrategia</h4></td>
             <td><h4>Liderazgo y Comunicación</h4></td>
             <td><h4>Ingeniería y Desarrollo de Software</h4></td>
             <td><h4>Infraestructura y Gobernanza</h4></td>
-            <tr><td>
-                <p>
-                  ➲ Estrategia de Negocios<br>
-                  ➲ Planificación de Negocios<br>
-                  ➲ Análisis Financiero<br>
-                  ➲ Análisis de Datos<br>
-                  ➲ Análisis de Negocios<br>
-                  ➲ Estrategia Digital<br>
-                  ➲ Éxito del Cliente<br>
-                  ➲ Gestión de Relaciones con Clientes (CRM)<br>
-                  ➲ Procesos de Negocios
-                </p>
-            </td>
-            <td>
-                <p>
-                  ➲ Liderazgo Ágil<br>
-                  ➲ Liderazgo de Equipos<br>
-                  ➲ Desarrollo de Liderazgo<br>
-                  ➲ Comunicación Interpersonal<br>
-                  ➲ Comunicación Empresarial<br>
-                  ➲ Oratoria<br>
-                  ➲ Planificación Estratégica<br>
-                  ➲ Asociaciones Estratégicas<br>
-                  ➲ Negociación<br>
-                  ➲ Relaciones con los Interesados
-                </p>
-            </td>
-            <td>
-                <p>
-                  ➲ Arquitectura de Software<br>
-                  ➲ Desarrollo Front-End<br>
-                  ➲ Desarrollo Back-End<br>
-                  ➲ REST APIs<br>
-                  ➲ Pruebas de APIs<br>
-                  ➲ Programación Orientada a Objetos (OOP)<br>
-                  ➲ Python<br>
-                  ➲ Java<br>
-                  ➲ Kotlin<br>
-                  ➲ Programación Lógica<br>
-                  ➲ Docker
-                </p>
-            </td>
-            <td>
-                <p>
-                  ➲ Gobernanza de TI<br>
-                  ➲ Gobernanza Corporativa<br>
-                  ➲ Redes de Computadoras<br>
-                  ➲ Google Cloud Platform (GCP)<br>
-                  ➲ Amazon Web Services (AWS)<br>
-                  ➲ Azure DevOps Server<br>
-                  ➲ Notion Productivity Software (Notion)<br>
-                  ➲ Microsoft Power BI<br>
-                  ➲ Implementación de Sistemas<br>
-                  ➲ Monitoreo Ambiental<br>
-                  ➲ Control de Calidad
-                </p>
-            </td>
         </tr>
     </tbody>
  </table>
