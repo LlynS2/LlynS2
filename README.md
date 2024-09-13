@@ -48,9 +48,10 @@
         <td><img src="https://github.com/user-attachments/assets/371788ba-379a-464f-980e-3265221fcca8" alt="Pernambucanas" width="75"></td>
         <td><img src="https://github.com/user-attachments/assets/ec8dcdc6-f30c-4276-a032-da2fb459908e" alt="Pefisa" width="57"></td>
         <td><img src="https://github.com/user-attachments/assets/4d043c02-2fb4-4042-a2c4-41219c214373" alt="IBM" width="75"></td>
-        <td><img src="https://github.com/user-attachments/assets/96987f7c-8781-4664-a089-b25485e197f5" alt="Globant" width="65"></td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="65"></td>
+        <td><img src="https://github.com/user-attachments/assets/96987f7c-8781-4664-a089-b25485e197f5" alt="Globant" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
         <td><img src="https://github.com/user-attachments/assets/df9c855f-95f3-4892-adb4-508dac3655e2" alt="MIT" width="85"></td>
+        <td><img src="https://github.com/user-attachments/assets/d63262db-4d9a-4e89-8bc8-7425fbb6f92a" alt="IFood" width="85"></td>
       </tr>
       <tr>
         <td><img src="https://github.com/user-attachments/assets/5841fa53-601e-46d4-b875-1efcf8652d08" alt="Google" width="75"></td>
