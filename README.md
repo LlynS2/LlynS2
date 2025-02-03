@@ -8,7 +8,7 @@
 
 <div align="center">
    
-   **`XRevolution Technologies 创始人兼首席执行官`** **`软件工程师`** **`产品负责人`** **`IT 项目经理`**
+   **`XRevolution Technologies 创始人兼首席执行官 (CEO)`** **`软件工程师`** **`产品负责人`** **`IT 项目经理`**
    
 </div><br>
 
