@@ -60,7 +60,7 @@
     <tbody>
       <tr>
         <td><img src="https://github.com/user-attachments/assets/25d8d17c-e721-4885-a8b9-c41ed10bbacf" alt="FIAP" width="57"></td>
-        <td><img src="https://github.com/user-attachments/assets/8f6553f2-6de7-4f5c-bd7c-a4e1ded3f6a7" alt="USP" width="57"></td>
+        <td><img src="https://github.com/user-attachments/assets/bbd53888-0feb-44d1-a882-eb7047924402" alt="USP" width="57"></td>
         <td><img src="https://github.com/user-attachments/assets/371788ba-379a-464f-980e-3265221fcca8" alt="Pernambucanas" width="75"></td>
         <td><img src="https://github.com/user-attachments/assets/ec8dcdc6-f30c-4276-a032-da2fb459908e" alt="Pefisa" width="57"></td>
         <td><img src="https://github.com/user-attachments/assets/4d043c02-2fb4-4042-a2c4-41219c214373" alt="IBM" width="75"></td>
