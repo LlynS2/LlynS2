@@ -20,6 +20,7 @@
 <div align="center">
    <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-专业LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
    <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-企业LinkedIn-cyan?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/services/page/0003683234a701a78b/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-IT服务-purple?style=for-the-badge&logo=linkedin"/></a>
 </div><br>
 
 <div>
