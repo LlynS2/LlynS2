@@ -23,7 +23,7 @@
      From IT to cybersecurity and cloud, I enjoy solving complex problems while working with cross-functional teams. My passion for technology drives me to find new ways to make a difference in the digital world.</p>
 </div>
 <div>
-    <h2>Projects</h2>
+    <h2>📝 Projects</h2>
    <table align="center">
     <tbody>
         <tr>
@@ -35,7 +35,7 @@
  </table>
 </div>
 <div>
-  <h2><img src="https://github.com/user-attachments/assets/16197bf7-21e8-4029-a37a-1a3c88a1c624" width="20"> Key Skills</h2>  
+  <h2>💎 Key Skills</h2>  
 <table>
     <tbody>
         <tr>
@@ -54,7 +54,7 @@
  </table>
 </div>
 <div>
-<h2>Companies</h2>
+<h2>💼 Companies</h2>
   <table>
     <tbody>
       <tr>
