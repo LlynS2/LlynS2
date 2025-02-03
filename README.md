@@ -8,7 +8,7 @@
 
 <div align="center">
    
-   **`Fundadora y CEO en XRevolution Technologies`** **`Ingeniero de Software`** **`Product Owner`** **`Gerente de Proyectos TI`**
+   **`Fundadora & CEO en XRevolution Technologies`** **`Ingeniero de Software`** **`Product Owner`** **`Gerente de Proyectos TI`**
    
 </div><br> 
 
