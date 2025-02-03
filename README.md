@@ -43,7 +43,7 @@
         <tr>
           <td><h4>Business Analysis and Strategy</h4></td>
             <td><h4>Leadership and Communication</h4></td>
-            <td><h4>Engineering & Software Development</h4></td>
+            <td><h4>Engineering & Software Development ( FullStack )</h4></td>
             <td><h4>Infrastructure and Governance</h4></td>
         </tr>
     </tbody>
