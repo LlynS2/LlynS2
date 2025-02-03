@@ -2,7 +2,21 @@
   다른 언어 : <a href="https://github.com/LlynS2/LLYNS2/tree/Português" target="_blank">Português <img src="https://github.com/user-attachments/assets/fa0289cd-3feb-4b62-a6b5-19d80a95a50c" width="15"></a> | <a href="https://github.com/LlynS2/LLYNS2" target="_blank">English <img src="https://github.com/user-attachments/assets/8e065c04-101a-4fd8-814c-b8e6778fca1a" width="15"></a> | <a href="https://github.com/LlynS2/LLYNS2/tree/Español" target="_blank">Español <img src="https://github.com/user-attachments/assets/0a4eb85c-cd21-43fc-bd98-7c1042f7b08e" width="17"></a> | <a href="https://github.com/LlynS2/LLYNS2/tree/中文" target="_blank">中文 <img src="https://github.com/user-attachments/assets/e3939437-846c-452f-b2a8-ec4dc394d7d9" width="17"></a>
 </div><br>
 
-<p>________________________________________________________________</p><br>
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/b5fe7caa-b87d-4d28-b075-c76b1cd4efee" alt="Hello Everyone" width="550">
+</div>
+
+<div align="center">
+   
+   **`XRevolution Technologies의 창립자 및 CEO`** **`소프트웨어 엔지니어`** **`Product Owner`** **`IT 프로젝트 관리자`**
+   
+</div><br> 
+
+<div align="left">
+   <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-프로페셔널 LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
+   <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-및 비즈니스 LinkedIn-cyan?style=for-the-badge&logo=linkedin"/></a>
+   <p>________________________________________________________________</p>
+</div><br>
 
 <div>
   <p align="center">저는 혁신과 리더십에 열정적인 사람으로, 도전을 통해 성장하며 항상 제 기업가적 비전을 기술 솔루션과 연결하는 방법을 찾고 있습니다. 소프트웨어 엔지니어링과 애자일 방법론에 대한 탄탄한 배경을 바탕으로, 저는 고품질의 우수한 결과를 제공하는 데 주력하고 있습니다.
@@ -63,14 +77,10 @@
         <td><img src="https://github.com/user-attachments/assets/f0b68583-1b7d-44c6-bbc4-7f8aeda99b3b" alt="BAYER" width="85"></td>
         <td><img src="https://github.com/user-attachments/assets/612541d8-e2fb-4b0d-b132-c907ff819358" alt="Harvard University" width="95"></td>
         <td><img src="https://github.com/user-attachments/assets/06ac6c2d-651a-4ed5-90aa-f4aecbee5a1d" alt="Harvard Business Publishing Education" width="105"></td>
+        <td><img src="https://github.com/user-attachments/assets/80cf96e3-8354-4c4d-a16a-79a55926dcfb" alt="XRevolution Technologies" width="95"></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<p align="right">________________________________________________________________</p><br>
-
-<div align="right">
-    <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219" target="_blank"><img src="https://github.com/user-attachments/assets/d9518f71-5305-45e2-b37e-b88b10870fd5" width="75"></a><br>
-    <img src="https://github.com/user-attachments/assets/263ef797-0dff-4f87-85d4-879835c04883" width="140">
-</div>
+<p align="right">________________________________________________________________</p>
