@@ -20,6 +20,7 @@
 <div align="center">
    <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-Professional LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
    <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-Business LinkedIn-cyan?style=for-the-badge&logo=linkedin"/></a>
+   <a href="https://www.linkedin.com/services/page/0003683234a701a78b/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-IT Services-purple?style=for-the-badge&logo=linkedin"/></a>
 </div><br>
 
 <div>
