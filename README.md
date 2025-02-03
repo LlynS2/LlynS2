@@ -10,17 +10,18 @@
    
    **`Founder & CEO at XRevolution Technologies`** **`Software Engineer`** **`Product Owner`** **`IT Project Manager`**
    
-</div><br> 
-
-<div align="left">
-   <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-Professional LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
-   <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-Business LinkedIn-cyan?style=for-the-badge&logo=linkedin"/></a>
 </div><br>
 
 <div align="center">
   <p>Innovation and leadership enthusiast, driven by challenges and always seeking to connect my entrepreneurial vision with technical solutions. With a strong background in Software Engineering and Agile methodologies, my focus is on delivering high-quality and excellent results. 
      From IT to cybersecurity and cloud, I enjoy solving complex problems while working with cross-functional teams. My passion for technology drives me to find new ways to make a difference in the digital world.</p>
 </div>
+
+<div align="center">
+   <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-Professional LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
+   <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-Business LinkedIn-cyan?style=for-the-badge&logo=linkedin"/></a>
+</div><br>
+
 <div>
     <h2>📝 Projects</h2>
    <table align="center">
