@@ -6,6 +6,12 @@
    <img src="https://github.com/user-attachments/assets/b5fe7caa-b87d-4d28-b075-c76b1cd4efee" alt="Hello Everyone" width="550">
 </div>
 
+<div align="center">
+   
+   **`Fundadora y CEO en XRevolution Technologies`** **`Ingeniero de Software`** **`Product Owner`** **`Gerente de Proyectos TI`**
+   
+</div><br> 
+
 <div align="left">
    <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn Profesional-pink?style=for-the-badge&logo=linkedin"/></a>
    <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn Empresarial-cyan?style=for-the-badge&logo=linkedin"/></a>
